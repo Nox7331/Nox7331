@@ -4,7 +4,7 @@
 
 - Ich arbeite gerade an: **FamilyLife, PlanetIV, ProjectEvo.**
 
-- Ich lerne gerade: **C#, Lua.**
+- Ich arbeite mit: **C#, Lua.**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nox7331&show_icons=true&locale=en" alt="nox7331" /></p>
