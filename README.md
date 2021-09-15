@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nox7331&label=Profile%20views&color=0e75b6&style=flat" alt="nox7331" /> </p>
 
 - Aktuelle Projekte: 
-  **FamilyLife 
-  LibertyLife 
-  ProjectEvo**
+  **FamilyLife, 
+  LibertyLife, 
+  ProjectEvo.**
 
 
 
