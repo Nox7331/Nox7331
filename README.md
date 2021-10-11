@@ -4,8 +4,7 @@
 
 - Aktuelle Projekte: 
   **FamilyLife, 
-  LibertyLife, 
-  ProjectEvo.**
+  LibertyLife.**
 
 
 
